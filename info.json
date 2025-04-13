@@ -1,0 +1,8 @@
+{
+  "name": "SolidValue Token",
+  "symbol": "SVT",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "A coin ready for the future.",
+  "explorer": "https://polygonscan.com/token/0x81674A127ca3ad2e35625bc9b6356Aa51dC2822E"
+}
